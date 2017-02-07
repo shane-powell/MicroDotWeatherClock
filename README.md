@@ -1,5 +1,7 @@
 # MicroDotWeatherClock
 
+This little script will alternate between displaying the time, temperature and weather on a Pimoroni Micro Dot pHat.
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=LqQ4d3E8iHc
 " target="_blank"><img src="http://img.youtube.com/vi/LqQ4d3E8iHc/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
